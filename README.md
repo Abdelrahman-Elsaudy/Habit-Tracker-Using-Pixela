@@ -5,7 +5,7 @@
 - This tool allows you to log your daily practice of a certain habit to be able to track it, visualize it and improve it.
 - It's an application of API `post`, `put` and `delete` requests in addition to `datetime` module and `strftime()` method.
 
-
+![habit_screenshot](https://github.com/Abdelrahman-Elsaudy/Blackjack/assets/158151388/ef12b7c5-1000-4ac1-ad8f-e5dc7f366e75)
 ---
 ## How it works:
 
